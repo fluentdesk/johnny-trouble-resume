@@ -1,5 +1,5 @@
-jane-q-fullstacker
-==================
+johnny-trouble-resume
+=====================
 An example [FRESH][f]-format resume for *Johnny Trouble*, a fictitious security
 director who likes to use a lot of Markdown, HTML, and special characters in his
 resume.
