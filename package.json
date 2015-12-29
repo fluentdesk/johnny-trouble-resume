@@ -1,0 +1,27 @@
+{
+  "name": "johnny-trouble-resume",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An example resume for Johnny Trouble, a fictitious candidate who likes to use a lot of Markdown, HTML, and special characters.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluentdesk/johnny-trouble-resume.git"
+  },
+  "keywords": [
+    "resume",
+    "CV",
+    "JSON",
+    "FRESH",
+    "FRESCA",
+    "HackMyResume",
+    "FluentCV",
+    "JSON Resume"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluentdesk/johnny-trouble-resume/issues"
+  },
+  "main": "src/johnny-trouble.fresh.json",
+  "homepage": "https://github.com/fluentdesk/johnny-trouble-resume"
+}
